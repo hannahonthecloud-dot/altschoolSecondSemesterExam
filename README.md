@@ -325,7 +325,7 @@ This pushes the project to GitHub.
 
 ## Screenshot
 
-![screenshot](./screenshot.png)
+![screenshot](portfolio-website.png)
 
 ---
 
